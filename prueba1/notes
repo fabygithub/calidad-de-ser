@@ -1,1 +1,45 @@
+menu navegacion excel
 
+clientes
+funciones
+tabla dinamica
+tablero
+calculadora
+
+
+se solicita
+analizar los procesos (cliente,tablero,calculadora)
+optimizar codigo
+mejora su funcionalidad
+crear cuestionario control de calidad automatizacion para cada ejercicio
+crear menu para navegar para no utilizar las pestañas
+  
+se deve utilizar por lo menos en cualquer proceso los siguientes componentes
+
+funciones            tablas dinamicas               macros basicas
+suma                 proteccion simple              formato condicional
+promedio                                            buscarv
+max                                                 buscarh
+min                                                 nombre de rango
+moda                                                validacion de celdasa
+contar                                              configuracion barra de herramientas
+contara
+contarblanco
+contar.si
+si
+si anidado
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
