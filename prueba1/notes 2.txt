@@ -1,0 +1,26 @@
+excel macros sin vba
+macros habilitar programador
+
+archivo -opciones -persolizar cinta de opciones
+-activar casilla programador
+
+libro habilidado para macros
+
+programador grabar macro
+excel botones y macros
+
+insertar - ulustraciones - formas
+rectangulo
+
+ingresar texto - centrar
+
+boton - copiar - pegar
+
+vista - macros - grabar macro
+
+boton derecho - asignar macro
+
+en la macro asignada - aparece una mano
+
+macros - ver macros - eliminar
+
