@@ -1,1 +1,33 @@
 matriz de riesgo excel
+empleado
+sueldo
+gratificacion
+
+1) hacerlo manual con la calculadora
+
+La manera clásica de calcular un porcentaje 
+es multiplicar la cantidad inicial por el porcentaje 
+que se quiere conocer y, después, dividir ese resultado por 100. 
+Es decir, para conocer 
+por ejemplo el 30% de 150 hay que multiplicar 150 por 30 
+y, después, dividir el resultado por 100.
+
+147852 x 30%  / 100%
+si anidado
+si y
+Usar SI con las funciones Y, O y NO
+
+//si el valor es mayor a 0 hace el calculo
+=SI(B2>0;B2*30/100)
+
+
+
+
+
+
+
+
+
+
+
+
