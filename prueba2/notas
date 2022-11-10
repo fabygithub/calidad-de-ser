@@ -48,6 +48,27 @@ B2*10/100
 // CONSALUD SANTA MARIA FONASA
 =SI(B5="CONSALUD";C5*12/100;SI(B5="SANTA MARIA";C5*25/100;SI(B5="FONASA";C5*7/100)))
 
+10-11-2022
+
+diagrama de flujo
+
+entra la informacion
+la procesa
+
+primera prueba logica
+verdaera resultado
+
+falso 
+otra prueba logica
+
+abro el argumento de funcion
+
+sueldo < 200000
+verdaero : gratificacion 30%
+
+celda fija f4
+celda absoluta
+
 
 
 
