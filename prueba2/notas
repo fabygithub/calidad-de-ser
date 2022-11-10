@@ -74,6 +74,49 @@ hay alguna duda
 sueldo calular el descuento
 es el mismo proceso
 
+tener los resultados
+
+si a-3 
+5850
+8550
+920
+760
+2850
+630
+1380
+
+si a-4
+seguir las instrucciones 
+que hay que analizar el id
+en la prueba logica
+
+=si( ayuda de argumentos
+
+si(a2=10248)
+verdadero "wilk"
+
+no
+otro si
+si(a2=10254)
+verdadero "frank"
+
+no
+otro si
+si(a2=10257)
+verdadero "tortu"
+
+no
+valor falso "" = blanco
+valor vacio : seria no valido
+
+descuento al precio en un 10%
+d2-d2*10%
+
+
+
+
+
+
 
 
 
