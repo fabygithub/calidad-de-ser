@@ -127,6 +127,122 @@ falso : "sin codigo"
 me dio este resultado
 operacion hecha
 
+si a-5
+muy buena
+insuficiente
+buena
+buena
+muy buena
+insuficiente
+suficiente
+muy buena
+
+
+si a-6
+
+si a-7
+menor
+b2<4,0
+menor o igual
+b2<=5.5
+
+bueno
+muy bueno
+bueno 
+malo
+
+si a-8
+excelente
+alto
+regular
+regular
+
+
+si a-9
+
+
+si y 1
+con que 1 sea falso
+todo es falso
+se tiene que cumplir todo
+
+=si(Y())
+=si(Y(
+
+=si(Y(b2>0;c2>5)
+
+
+si
+no
+no
+
+
+si y 2
+
+=si(argumentos ayuda
+y()
+
+hombre
+mujer
+mujer
+hombre
+mujer
+hombre
+
+
+si y 3
+
+la funcion y 
+siempre comienza con un
+y()
+
+; signica siguiente requisito
+; requisito
+
+no
+no
+no
+si
+no
+no
+si
+no
+
+cumple todos los requisitos para entrar a la aviacion
+
+
+funcion o
+con que uno sea verdadero 
+todo es verdadero
+
+=si(
+or()
+
+valor verdadero : si
+valor falso : no
+
+https://www.youtube.com/watch?v=blmOhgd-S4I
+
+utilizar la funcion si o
+prueba logica
+patente = 7 ; d5 = 8; 
+si se cumplen requisitos
+valor verdadero : no circula
+
+seguir automatizando
+mas de macros
+visual basic
+trabajar en la hojas
+buscar codigo
+copiar y pegar
+hacer un formlario
+ingresar usuario
+colocar contraseña
+es la verdad
+
+
+
+
 
 
 
