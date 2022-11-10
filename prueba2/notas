@@ -112,6 +112,23 @@ valor vacio : seria no valido
 descuento al precio en un 10%
 d2-d2*10%
 
+no importa si es mayuscula o minuscula
+=SI(B2=$B$3;C2;SI(B2=$B$10;"";SI(B2=$B$7;D2+5;D2)))
+
+prueba logica
+precio unitario < 2000
+verdadero : codigo 1
+falso : otro si
+entre 1001 <= 3000 codigo : 2
+falso : tercer si
+entre 3001 <= 3500 codigo : 3
+falso : "sin codigo"
+
+me dio este resultado
+operacion hecha
+
+
+
 
 
 
